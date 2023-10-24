@@ -1,4 +1,4 @@
 
 export const environment = {
-    baseUrl: 'http://localhost:3000'
+    baseUrl: 'https://authmean-nest-backend-production.up.railway.app'
 }
